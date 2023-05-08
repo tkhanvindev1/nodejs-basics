@@ -9,8 +9,8 @@ Next, let's create a new Node.js project. In your terminal or command prompt, na
 
 <h2>Node modules</h2>
 Now that we have our project set up, let's talk about modules. In Node.js, modules are used to organize code into separate files or modules. Each module can export functions, variables, or other objects that can be used in other parts of your code. To use a module in your code, you can use the require function and specify the path to the module.
-
-For example, we could create a new Express application like this:
+<br>
+For example, we could create a new <a href="https://expressjs.com/">Express</a> application like this:
 <img width="611" alt="Screen Shot 2023-05-07 at 8 59 52 PM" src="https://user-images.githubusercontent.com/107436848/236712432-e5db8e1e-1328-4ccb-bf33-81ad79d8859b.png">
 
 In these two lines, we are importing the express module and creating a new Express application by calling the express function. We assign the resulting object to the variable app.
